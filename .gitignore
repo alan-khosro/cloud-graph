@@ -1,0 +1,5 @@
+node_modules
+temp
+.venv
+.env.*
+public
